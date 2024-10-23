@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace davaleba_5
 {
@@ -240,10 +237,18 @@ namespace davaleba_5
         public void ReturnBook()
         {
             CopiesAvailable++;
-            Console.WriteLine($"You have returned '{Title}'.");class Program
-    {
-        static void Main(string[] args)
-        {
+            Console.WriteLine($"You have returned '{Title}'.");
         }
     }
 }
+
+        
+
+
+       
+         
+            
+           
+        
+    
+
